@@ -2,8 +2,8 @@
 
 I'm Peter, a senior at UCLA with a double major in Statistics and Data Science & Business Economics.
 
-- 🗄️ I mostly work on data analysis (survey, clean, model, visualize) and using Data Analysis & AI to tell stories about the world around us!
-- 🏗️ Pillar belief: Data helps us to think critically, empirically, soundly, and coherently about our ideas and the patterns in the world around us.
+- 🗄️ I mostly work on data analysis and using it to tell stories about the world around us!
+- 🏗️ Pillar belief: Data and AI help us think critically, empirically, soundly, and coherently about our ideas and the patterns in the world around us.
 - 📤 Past projects
     + Implemented quasi-experimental design to infer the causal effect of recreational marijuana legalization on alcohol consumption in the state of California
     + Analyzed U.S. CPI data to display how rising costs disproportionately changes household spendings in different consumer categories
