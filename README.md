@@ -18,7 +18,7 @@ I'm Peter, a senior at UCLA with a double major in Statistics and Data Science &
     + Excel
 
 ## A Bit About Me
-- 📸 I'm a photographer
+- 📸 I take photos and videos
 - 🌳 I love nature and hiking (Lassen Volcanic Park on top)
-- ⛄️ I love watching Anime (Demon Slayer!)
-- 🛏️ I love telling stories. It began with Minecraft. Now, data feels the same.
+- ⛄️ I watch Anime (Demon Slayer!)
+- 🛏️ I tell stories. It began with Minecraft. Now, data feels the same.
